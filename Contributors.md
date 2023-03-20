@@ -1130,6 +1130,7 @@ Subhajit Bera
 - [https://github.com/kartavyamakwanahttps://github.com/kartavyamakwanaJoseph Macfarlane] (https://github.com/joseph-macfarlane)
 - [Harikrishnan Kannoth](https://github.com/hxrii)
 - [Ajay Anuragi](https://github.com/ajayanuragi)
+- [Ajay Kushwaha](https://github.com/ajay-it)
 - [Jugal balaji](https://github.com/jugalbalaji97)
 - [Lain Iwakura](https://github.com/arisuandlainkissingcompetition123456789)
 - [Geoff Filippi](https://github.com/geofffilippi)
